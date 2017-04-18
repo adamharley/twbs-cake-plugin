@@ -20,7 +20,7 @@
     "require": {
         "cakephp/cakephp": "^3.3",
         "elboletaire/less-cake-plugin": "^1.7",
-        "friendsofcake/bootstrap-ui": "^0.6"
+        "friendsofcake/bootstrap-ui": "^1.0"
     },
     "autoload": {
         "psr-4": {
